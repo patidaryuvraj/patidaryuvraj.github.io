@@ -580,7 +580,7 @@ section {
 .contact .info {
   width: 100%;
   background: #fff;
-  padding-left: 125%;
+  /* padding-left: 125%; */
 }
 
 .contact .info i {
